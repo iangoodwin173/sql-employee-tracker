@@ -17,9 +17,9 @@ VALUES
 
 
 INSERT INTO employee
-    (first_name, last_name, role_id, manager_id)
+    (first_name, last_name, role_id, job_title, manager_id, department_id, salary)
 VALUES
-    ('Mike', 'Owens', 1, 4),
-    ('Jeff', 'Adamson', 2, 3),
-    ('Andre', 'Ericks', 3, 1),
-    ('Peter', 'Larsen', 4,5);
+    ('Mike', 'Owens', 1, 'Contracts Manager', 4, 1, 120000),
+    ('Jeff', 'Adamson', 2, 'Help Desk Admin', 3, 2, 65000),
+    ('Andre', 'Ericks', 3, 'HR Coordinator', 1, 3, 85000),
+    ('Peter', 'Larsen', 4, 'Inside Sales Rep', 5, 4, 77000);
