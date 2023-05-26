@@ -1,6 +1,8 @@
-## SQL Employee Tracker
+# SQL Employee Tracker
 
-# This repository contains code for a command-line-based application that allows an end user to track employees in a SQL Database. Linked below is the walkthrough video on how the application works.
+----------------------------------------------
+
+## This repository contains code for a command-line-based application that allows an end user to track employees in a SQL Database. Linked below is the walkthrough video on how the application works.
 
 # Walkthrough Video
 
